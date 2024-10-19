@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things related to technology
 - 🌱 I’m currently pursuing B Tech in Computer Science
 - 💞️ I’m looking to collaborate on everything
-- 📫 You can reach me via linkedin -->www.linkedin.com/in/anshika-george-958485291
+- 📫 You can reach me via linkedin -->www.linkedin.com/in/anshika-george
 - 😄 Pronouns: She/Her
 
 <!---
