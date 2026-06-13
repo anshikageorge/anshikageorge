@@ -1,5 +1,15 @@
-# 💫 About Me:
-<br>I'm a CSE final year student<br>- 🚀 Interested in web development, AI, and automation<br>- 💡 Love turning ideas into working products<br>- 📚 Always exploring new technologies<br>- IEEE CS  Chairperson
+## 💫 About Me
+
+I'm a final-year Computer Science Engineering student passionate about building impactful technology and solving real-world problems through code.
+
+- 💻 Interested in Full-Stack Development, AI, and Automation
+- 🚀 Love transforming ideas into functional products and applications
+- 🌱 Constantly learning new technologies and development practices
+- 🏆 IEEE Computer Society Chairperson
+- 🤝 Enjoy collaborating on innovative projects and technical communities
+- 📚 Exploring software engineering, cloud technologies, and AI-driven solutions
+
+> "Building, learning, and growing one project at a time."
 
 
 ## 🌐 Socials:
