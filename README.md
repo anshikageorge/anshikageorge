@@ -9,7 +9,7 @@ I'm a final-year Computer Science Engineering student passionate about building 
 - 🤝 Enjoy collaborating on innovative projects and technical communities
 - 📚 Exploring software engineering, cloud technologies, and AI-driven solutions
 
-> "Building, learning, and growing one project at a time."
+> "Building, learning, and growing."
 
 
 ## 🌐 Socials:
